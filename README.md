@@ -1,5 +1,3 @@
-# Isi awal README.md untuk proyek portofolio Laravel
-readme_content = """
 # SIPROKOM - Sistem Informasi Prediksi dan Monitoring Komoditas Energi
 
 Website Laravel untuk memantau dan memprediksi harga minyak dan batu bara dengan fitur:
